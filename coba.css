@@ -1,0 +1,12 @@
+body{
+    background-image: url(
+        https://i.pinimg.com/originals/07/aa/1a/07aa1ab70e52504650e4a4f3f922ce29.gif
+    );
+}
+body{
+    color: aliceblue;
+    background-attachment: fixed;
+}
+#titid{
+    text-align: justify;
+}

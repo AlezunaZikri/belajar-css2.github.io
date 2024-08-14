@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/b2/70/d9/b270d96b704103fd08b19646c0e87992.jpg)
+}
+h1,h2,a{
+color: darkgrey;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    border: 2px solid;
+    border-radius: 5px;
+}
